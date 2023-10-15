@@ -1,0 +1,5 @@
+xslxparser:
+  sheetIndex: 2
+  rowToStartCountFrom: 3
+  locationCellIndex: 1
+  weightCellIndex: 5
